@@ -1,0 +1,2 @@
+# HexadecimalDirectionValueConverter
+此工具用于将 ExtraOptions 获取的坐标十六进制方向值转换为角度以便写入 Attrib 数据库
